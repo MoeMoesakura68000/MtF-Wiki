@@ -1,3 +1,6 @@
+# 仅声援可橙事件，作备份用。
+
+
 [![MtF-Wiki][logo-long]][wiki-url]
 
 镜像站：[mtfwiki.cn](https://mtfwiki.cn/)
